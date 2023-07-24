@@ -1,7 +1,7 @@
 ![masterhead](https://www.seekpng.com/png/full/132-1326686_creepy-yuno-anime-banners-de-youtube.png)
 <h1 align="center">Hi 👋, I'm Quiiine</h1>
 <h3 align="center">If you looking for a person who is getting everything faster, congratulations here I am</h3>
-<image align="right" width= "350" alt= "image" src="https://gifdb.com/images/high/anime-yuri-playing-computer-o61624edo8u5ay1v.gif">  
+<image align="right" width= "360" alt= "image" src="https://gifdb.com/images/high/anime-yuri-playing-computer-o61624edo8u5ay1v.gif">  
 
 - 🌱 I’m currently learning **new skills!**
 - 📫 How to reach me **morisosage@gmail.com**
