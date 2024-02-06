@@ -1,11 +1,11 @@
 ![masterhead](https://i.imgur.com/a4uThsU.png)
 <h1 align="center">Hello, my name is Boris and here is some information about me</h1>
-<h3 align="center">If you looking for a person who is getting everything faster, congratulations here I am</h3>
-<image align="right" width= "360" alt= "image" src="https://gifdb.com/images/high/anime-yuri-playing-computer-o61624edo8u5ay1v.gif">  
-
--  seasoned Data Analyst known for crafting captivating storytelling dashboards and reports that transform raw data into actionable insights. With a keen eye for detail and a knack for creating compelling Key Performance Indicators (KPIs), I excel in unraveling complex datasets to unveil meaningful narratives.
+<h3 align="center">Welcome</h3>
 - 📫 How to reach me **morisosage@gmail.com**
--  ⚡ Fun fact **I love coding as much as anime!**
+-  an expert in crafting engaging dashboards, conducting research, and developing intriguing metrics. I specialize in delving deep into data, presenting information in simple yet impactful ways with a touch of creativity
+- Beyond the realm of data analytics, I am a globetrotter with a passion for exploring diverse cultures. Having traversed through 50 countries, I find joy in immersing myself in new environments and learning from each unique experience.
+- In addition to my analytical prowess, I have a rich sporting background. I honed my tennis skills over a span of 5 years, displaying dedication and discipline on the court. Furthermore, my strategic mind comes to the fore in chess, a game I've been mastering for almost a decade. I delved into the competitive world of gaming for 2 years, adding a dynamic and strategic dimension to my repertoire.
+-  ⚡ In essence, my multifaceted journey encompasses the precision of data analysis, the thrill of global exploration, and the strategic finesse of both tennis and chess. I am not merely a Data Analyst; I am Boris Menshikov, a professional who weaves a narrative through data, embraces the world, and engages in the nuanced art of strategy.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
