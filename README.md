@@ -3,7 +3,7 @@
 <h3 align="center">If you looking for a person who is getting everything faster, congratulations here I am</h3>
 <image align="right" width= "360" alt= "image" src="https://gifdb.com/images/high/anime-yuri-playing-computer-o61624edo8u5ay1v.gif">  
 
-- 🌱 I’m currently learning **new skills!**
+-  seasoned Data Analyst known for crafting captivating storytelling dashboards and reports that transform raw data into actionable insights. With a keen eye for detail and a knack for creating compelling Key Performance Indicators (KPIs), I excel in unraveling complex datasets to unveil meaningful narratives.
 - 📫 How to reach me **morisosage@gmail.com**
 -  ⚡ Fun fact **I love coding as much as anime!**
 
