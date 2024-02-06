@@ -1,5 +1,5 @@
 ![masterhead](https://i.imgur.com/a4uThsU.png)
-<h1 align="center">Hi 👋, I'm Quiiine</h1>
+<h1 align="center">Hello, my name is Boris and here is some information about me</h1>
 <h3 align="center">If you looking for a person who is getting everything faster, congratulations here I am</h3>
 <image align="right" width= "360" alt= "image" src="https://gifdb.com/images/high/anime-yuri-playing-computer-o61624edo8u5ay1v.gif">  
 
