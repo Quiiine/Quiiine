@@ -1,4 +1,4 @@
-![masterhead](https://i.imgur.com/a4uThsU.png)
+![masterhead](https://i.imgur.com/L3rCxbz.png)
 <h1 align="center">Hello, my name is Boris and here is some information about me</h1>
 <h3 align="center">Welcome</h3>
 - 📫 How to reach me:
