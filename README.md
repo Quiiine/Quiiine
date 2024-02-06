@@ -1,4 +1,4 @@
-![masterhead](https://i.imgur.com/LY84tPo.png)
+![masterhead](blob:https://imgur.com/4624e13a-4f37-4c1b-b309-65b70aaea6f5)
 <h1 align="center">Hi 👋, I'm Quiiine</h1>
 <h3 align="center">If you looking for a person who is getting everything faster, congratulations here I am</h3>
 <image align="right" width= "360" alt= "image" src="https://gifdb.com/images/high/anime-yuri-playing-computer-o61624edo8u5ay1v.gif">  
