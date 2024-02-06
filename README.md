@@ -2,6 +2,7 @@
 <h1 align="center">Hello, my name is Boris and here is some information about me</h1>
 <h3 align="center">Welcome</h3>
 - 📫 How to reach me:
+
 borismenshikovg@gmail.com
 
 -  an expert in crafting engaging dashboards, conducting research, and developing intriguing metrics. I specialize in delving deep into data, presenting information in simple yet impactful ways with a touch of creativity
