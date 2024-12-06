@@ -3,7 +3,7 @@
 <h3 align="center">Welcome</h3>
 - 📫 How to reach me:
 
-borismenshikovg@gmail.com
+boris.menshikov.de@gmail.com
 
 -  an expert in crafting engaging dashboards, conducting research, and developing intriguing metrics. I specialize in delving deep into data, presenting information in simple yet impactful ways with a touch of creativity
 
